@@ -25,4 +25,10 @@ void main() {
         print((username).runtimeType);
     
     // Variables are Reassignable
+    username = 'Bhattacharya';
+    print("Arunabh $username");
+
+    // To make Variables immutable, we have keywords like 'final' and 'const'
+    const int age = 20;
+    print(age);
 }
