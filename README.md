@@ -1,2 +1,2 @@
-# Dart 101
-Codes to learn Fundamentals of Dart
+<h1 align="center"> Dart 101 </h1>
+
