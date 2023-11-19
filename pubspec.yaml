@@ -1,14 +1,14 @@
-name: dart_learn
-description: A simple command-line application.
+name: Dart-Learn
+description: A Package containing all the Code for learning dart
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/arunabh-a/Dart-Learn
 
 environment:
   sdk: ^3.1.5
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  path: ^1.8.0
 
 dev_dependencies:
   lints: ^2.0.0
