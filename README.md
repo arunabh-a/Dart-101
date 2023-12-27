@@ -8,7 +8,8 @@
 > - Dart is designed for building fast apps on **multiple platforms**.
 > - It is developed by **Google** first released in **2011**.
 > - It was designed as an alternative to **JavaScript** to run apps in the browser but it was never embraced as such by the Web Dev community.
-> - However it got its comeback after being adopted as the language for **Flutter** framework becoming one of the most loved programming language in the industry 
+> - However it got its comeback after being adopted as the language for **Flutter** framework becoming one of the most loved programming language in the industry
+> - It is unique for its ability to compile to multiple target architectures like **arm and x64** machine code for **Mobile Devices**, **JavaScript** for **Web** and Self-Contained **Executables** for **Windows, Mac OS and Linux**
 
 &nbsp;
 <!--
